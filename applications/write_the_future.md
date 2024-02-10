@@ -110,7 +110,9 @@ We believe the cross road of eLearning, AI, AR and crypto is the less explored a
 - **Registered Legal Entity:** Soolan Ltd.
 
 ### Team's experience
-
+- Sohail Salehi Mava
+  In the past 3 decades, I had opportunities to work with various industries in several countries and solve tech challenges as junior developer all the way up to CTO and CEO. To name a few Fonterra, XFactor NZ, Lotto and NZHerald are some of my previous customers.
+  In 2020, I worked with Zelcore US and that was my entry to blockchain programming. Ever since I never looked back again. 
 
 ### Team Code Repos
 - https://github.com/Soolan/wtf
@@ -128,14 +130,10 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 
 
 ## Development Status :open_book:
-
-If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
-
-- links to improvement proposals or [RFPs](https://github.com/w3f/Grants-Program/tree/master/docs/RFPs) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the Web3 Foundation,
-- previous interface iterations, such as mock-ups and wireframes.
+What I am building is not an idea or MVP. It is a functional and operation ecosystem with a few active product and services. Please visit the website: https://wtf.pub register and play with some of its ready products and servicves. For example in the comming weeks there will be a burst of new workshops and courses in our Learn platform.
+I had the honor of writing and publishing 30 tech books mostly about programming and software design. Book number 31 titled "WhaleDrop: The Angular Way To Code, Cloud And AR" most likely will be published by Packt Publishing (UK) and will be on the shelves in 2 months.
+  I believe in offering solution for existing problems. That is why before writing a book or creating a tech solution, I'm on the field doing research and talking to people. The idea of AI/Crypto powered elearning platform born out of these field researches. Students abandone their online courses, simply because after a few days/weeks they are not engage anymore. Addressing the engagement issue was at the core of our eLearning platform. Another example is the book that I just finished writing recently.
+  Crypto retail had enough of airdrops and random tokens that promoted via a workdpress website. But if there is a utility token that has an ecosystem built around it and its airdrop is a WhaleDrop (they had to check the live map, spot the whale in the sky and get utility tokens as rewards - that they can spend on a real products and services- that is a winner. And this is the direction we are talking. The code is [open source](https://github.com/Soolan/book-whale-drop) and tt will come with its own crypto rewards, smart contracts, workshops and courses.
 
 ## Development Roadmap :nut_and_bolt:
 
